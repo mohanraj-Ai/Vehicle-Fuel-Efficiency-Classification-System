@@ -19,7 +19,7 @@ Predict vehicle fuel-efficiency classes using key automotive parameters and a tr
 ## 🌟 Project Showcase
 
 <p align="center">
-  <img src="assets/capture.png" alt="Vehicle Fuel Intelligence System" width="900">
+  <img src="assets/Capture.png" alt="Vehicle Fuel Intelligence System" width="900">
 </p>
 
 ### 🖥️ Live Prediction Interface
